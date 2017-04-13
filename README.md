@@ -1,2 +1,0 @@
-# SegmentierterHintergrund
-# SegmentierterHintergrund
